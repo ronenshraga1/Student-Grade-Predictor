@@ -1,6 +1,6 @@
 # Student Grade Predictor
 
-This is my first Machine Learning project. It predicts students' final grade (`G3`) and explores how the availability of previous grades affects prediction performance.
+This is my first Machine Learning project. It predicts students final grade (`G3`) and explores how the availability of previous grades affects prediction performance.
 
 ## Project Goal
 
